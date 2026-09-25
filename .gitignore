@@ -1,3 +1,9 @@
+# Normally, this is recommended to sync,
+# but we'll not worry about it for this
+# assignment
+uv.lock
+poetry.lock
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
